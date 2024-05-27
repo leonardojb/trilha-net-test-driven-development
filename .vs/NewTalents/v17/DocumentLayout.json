@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9960612D-FD24-4DC6-9988-EBA4B43FA33C}|NewTalents\\NewTalents.csproj|e:\\projetos\\dotnetdeveloper\\newtalents\\newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9960612D-FD24-4DC6-9988-EBA4B43FA33C}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8692B4E-5218-404D-9B1B-827C6F3E5AAE}|NewTalentsTests\\NewTalentsTests.csproj|e:\\projetos\\dotnetdeveloper\\newtalents\\newtalentstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8692B4E-5218-404D-9B1B-827C6F3E5AAE}|NewTalentsTests\\NewTalentsTests.csproj|solutionrelative:newtalentstests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9960612D-FD24-4DC6-9988-EBA4B43FA33C}|NewTalents\\NewTalents.csproj|e:\\projetos\\dotnetdeveloper\\newtalents\\newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9960612D-FD24-4DC6-9988-EBA4B43FA33C}|NewTalents\\NewTalents.csproj|solutionrelative:newtalents\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Calculadora.cs",
+              "ToolTip": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalents\\Calculadora.cs",
+              "RelativeToolTip": "NewTalents\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:59:52.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalentsTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "NewTalentsTests\\UnitTest1.cs",
+              "ToolTip": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalentsTests\\UnitTest1.cs",
+              "RelativeToolTip": "NewTalentsTests\\UnitTest1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:58:20.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeDocumentMoniker": "NewTalents\\Program.cs",
+              "ToolTip": "E:\\Projetos\\dotnetDeveloper\\NewTalents\\NewTalents\\Program.cs",
+              "RelativeToolTip": "NewTalents\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T11:55:09.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
